@@ -22,11 +22,13 @@ Utiliza un cv modelo NZ como este simple y corto: [http://bit.ly/2I5krsZ​](htt
 
 Sitios en los que busco:
 
-* [thecreativestore.co.nz/​](https://thecreativestore.co.nz/​)
-* [potentia.co.nz/​](http://potentia.co.nz/​)
-* [roberthalf.co.nz/​](https://www.roberthalf.co.nz/​)
-* [madison.co.nz/​](https://www.madison.co.nz/​)
-* [adecco.co.nz/​](https://www.adecco.co.nz/​)
+* [thecreativestore.co.nz](https://thecreativestore.co.nz/​)
+* [potentia.co.nz](http://potentia.co.nz/​)
+* [consultrecruitment.co.nz/jobs](https://www.consultrecruitment.co.nz/jobs/)
+* [pitcheers.com/](https://www.pitcheers.com/)
+* [roberthalf.co.nz](https://www.roberthalf.co.nz/​)
+* [madison.co.nz](https://www.madison.co.nz/​)
+* [adecco.co.nz](https://www.adecco.co.nz/​)
 * [trademe.co.nz/jobs​](https://www.trademe.co.nz/jobs​)
-* [joyn.co.nz/recruitment/​](https://joyn.co.nz/recruitment/​)
-* [gunntalent.co.nz/](http://www.gunntalent.co.nz/)
+* [joyn.co.nz/recruitment](https://joyn.co.nz/recruitment/​)
+* [gunntalent.co.nz](http://www.gunntalent.co.nz/)
